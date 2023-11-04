@@ -1,0 +1,8 @@
+body::before{
+    display: block;
+content: '';
+height: 60px;
+}
+html{
+    scroll-behavior: smooth !important;
+}
